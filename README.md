@@ -10,3 +10,4 @@
 
 ⚡ Fun fact: I love playing the piano and experimenting with new cooking recipes in my free time!
 
+👩‍💻 I'm also a passionate programmer focusing on language models development.
