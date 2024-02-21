@@ -1,4 +1,4 @@
-👋 Hi, I’m @Sanaa-Obied
+👋 Hi, I’m Sanaa Abdul-jaber Obied
 
 👀 I’m interested in artificial intelligence, machine learning, and web development.
 
