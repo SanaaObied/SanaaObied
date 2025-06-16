@@ -47,8 +47,6 @@
 
 ### 📫 Let's Connect
 - 📧 Email: [sanaobied2@gmail.com](mailto:sanaobied2@gmail.com)
-- 🌍 Portfolio: *Coming Soon...*
-- 🎹 I play piano & 👩‍🍳 enjoy cooking!
 
 ---
 
