@@ -1,13 +1,25 @@
-👋 Hi, I’m Sanaa Abdul-jaber Obied
+## 👋 Hi there, I'm Sanaa Abdul-jaber Obied
 
-👀 I’m interested in artificial intelligence, machine learning, and web development.
+<img align="right" src="https://avatars.githubusercontent.com/u/your-github-id" width="120" style="border-radius:50%" />
 
-🌱 I’m currently learning Python programming and deep learning techniques.
+### 👀 Interests  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Web Development  
+- 🧠 Natural Language Processing
 
-💞️ I’m looking to collaborate on open-source projects related to natural language processing or front-end development.
+### 🌱 Currently Learning  
+- 🐍 Python Programming  
+- 📚 Deep Learning Techniques  
 
-📫 How to reach me: You can reach me via email at sanaobied2@gmail.com 
+### 💞️ Open to Collaborate  
+- 🛠️ Open-source projects related to NLP or Front-end Development  
 
-⚡ Fun fact: I love playing the piano and experimenting with new cooking recipes in my free time!
+### 📫 How to Reach Me  
+- ✉️ Email: [sanaobied2@gmail.com](mailto:sanaobied2@gmail.com)
 
-👩‍💻 I'm also a passionate programmer focusing on language models development.
+### ⚡ Fun Fact  
+- 🎹 I enjoy playing the piano and experimenting with new cooking recipes in my free time!
+
+### 👩‍💻 About Me  
+- I'm a passionate programmer focusing on developing **language models** and intelligent systems.
+
