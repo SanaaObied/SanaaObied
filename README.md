@@ -1,24 +1,54 @@
-## 👋 Hi there, I'm Sanaa Abdul-jaber Obied
+<h1 align="center">👋 Hi, I'm Sanaa Abdul-jaber Obied</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif"/>
+</p>
 
-### 👀 Interests  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🌐 Web Development  
-- 🧠 Natural Language Processing
+---
 
-### 🌱 Currently Learning  
-- 🐍 Python Programming  
-- 📚 Deep Learning Techniques  
+### 🚀 Skills & Technologies
 
-### 💞️ Open to Collaborate  
-- 🛠️ Open-source projects related to NLP or Front-end Development  
+#### 🖥️ Programming Languages
+- 🐍 Python
+- 💻 JavaScript
+- 🐘 PHP
+- 🧱 HTML5 & CSS3
 
-### 📫 How to Reach Me  
-- ✉️ Email: [sanaobied2@gmail.com](mailto:sanaobied2@gmail.com)
+#### ⚙️ Frameworks & Libraries
+- ⚛️ React.js & Next.js
+- 🌐 Node.js & Express.js
+- 🎨 Bootstrap 5, TailwindCSS
+- 🧰 Laravel
 
-### ⚡ Fun Fact  
-- 🎹 I enjoy playing the piano and experimenting with new cooking recipes in my free time!
+#### 🛢️ Databases
+- 🍃 MongoDB
+- 🐬 MySQL
 
-### 👩‍💻 About Me  
-- I'm a passionate programmer focusing on developing **language models** and intelligent systems.
+#### 🧪 Tools & Platforms
+- 🧠 Git & GitHub
+- 🧪 Postman & Axios
+- 🌍 JSON, RESTful APIs
+- 🧩 Visual Studio Code
 
+---
+
+### 🌱 Currently Learning
+- 🤖 Deep Learning
+- 🧠 NLP (Natural Language Processing)
+- 🔁 Advanced Python techniques
+
+---
+
+### 📫 Contact Me
+- 📧 Email: [sanaobied2@gmail.com](mailto:sanaobied2@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+I love 🎹 playing piano & enjoy 🍳 cooking experimental recipes!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanaobied&layout=compact&theme=radical" alt="Top Languages" />
+</p>
