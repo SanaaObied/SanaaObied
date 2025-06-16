@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm Sanaa Abdul-jaber Obied
 
-<img align="right" src="https://avatars.githubusercontent.com/u/your-github-id" width="120" style="border-radius:50%" />
 
 ### 👀 Interests  
 - 🤖 Artificial Intelligence & Machine Learning  
